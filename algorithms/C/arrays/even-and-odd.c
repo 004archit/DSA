@@ -3,7 +3,7 @@ int main()
 {
  int n;
  printf("Enter n : "); //n is number of elements in the array
- scanf("%d", &n); 
+ scanf("%d",&n); 
  int arr[n];
  for (int i = 0; i < n; i++)
  {
